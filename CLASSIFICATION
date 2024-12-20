@@ -22,3 +22,4 @@ text = "Hello! 😃 Đây là đoạn chat 📝 với emoji 🚀."
 clean_text = remove_emoji(text)
 #print(clean_text)  # Output: "Hello! Đây là đoạn chat với emoji ."
 clean_text
+kiet
