@@ -78,14 +78,19 @@ Lớp cuối cùng đưa ra dự đoán về cảm xúc (ví dụ: "tích cực"
 
 7. Ví dụ cụ thể:
 Văn bản: "I love this movie!"
+
 Embedding Layer:
 "I" → [0.1, 0.2, 0.3], "love" → [0.4, 0.5, 0.6], "this" → [0.7, 0.8, 0.9], "movie" → [1.0, 1.1, 1.2], "!" → [0.3, 0.4, 0.5].
+
 LSTM Representation:
 Đặc trưng tuần tự: [0.8, 0.6, 0.4, 0.7].
+
 CNN Representation:
 Đặc trưng cục bộ: [0.5, 0.9, 0.8, 0.6].
+
 Concatenation:
 Kết hợp: [0.8, 0.6, 0.4, 0.7, 0.5, 0.9, 0.8, 0.6].
+
 Output:
 Dự đoán: Tích cực.
 
