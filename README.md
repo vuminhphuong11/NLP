@@ -1,4 +1,5 @@
 # NLP
+https://husteduvn-my.sharepoint.com/:w:/g/personal/kiet_nv224286_sis_hust_edu_vn/EbbCq39-hXpCgAtI7Ysxs4QBs3YcYJjUKGIliFWbv6yxFA?e=KHKsHA
 TEXT CLASSIFICATION
 Các bước thực hiện ban đầu
 1. Xử lý Dữ liệu
